@@ -2,10 +2,10 @@ var twitter = require('ntwitter');
 
 // oAuth for twitter API v1.1
 var twit = new twitter({
-	consumer_key: 'o0hR3pB8t7fAHoZqbzLMA',
-	consumer_secret: 'qzcpZIyFnXZqMVRdUfTaujdPyvLZi5SZoNY5L3E6zI',
-	access_token_key: '61608342-ogqdWGY7FNvp5RPRvpyvbJizSopOYKV2gs6oVfDFd',
-	access_token_secret: 'AD5TsMew9ZUohqCHB4YA6RRxwPNk8bGS9rKDgusG15VOi'
+	consumer_key: 'Twitter',
+	consumer_secret: 'API',
+	access_token_key: 'keys',
+	access_token_secret: 'go here'
 });
 
 // database inclusion
